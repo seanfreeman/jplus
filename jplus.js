@@ -710,7 +710,7 @@ window.ob = {
             }
         }
         else {
-            edebug("no selector");
+            console.log("no elements found on dom");
           
         }
         newob.list = list;
