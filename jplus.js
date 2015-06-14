@@ -1,7 +1,9 @@
 
 // jplus is a javascript utiity framework that is written by sean freeman.
 // feel free to use it, edit it, share it or do whatever you wanna do with it.
-
+window.edebug=function(s){
+    console.log(s);
+};
 window.ob = {
     b: document.body,
     d: document,
@@ -710,7 +712,7 @@ window.ob = {
             }
         }
         else {
-            console.log("no elements found on dom");
+            edebug("no selectors found");
           
         }
         newob.list = list;
