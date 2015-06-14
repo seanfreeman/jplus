@@ -1,6 +1,6 @@
 # jplus
-Jplus is a javascript utility framework. And it makes the writing javascript easier. 
+Jplus is a javascript utility framework. And it makes writing the javascript easier.  it's open source, so do whatever you want with this code.
 
-it's an alternative to jquery. it makes javascript smaller and easier. it's faster than jquery. it's optimized for performance in mind. 
+It's an alternative to jquery for those who wants a easier, simple and faster framework. it's faster than jquery. it's optimized for performance in mind. 
 
 please feel free to jsfiddle with it here: https://jsfiddle.net/tc2praLd/
