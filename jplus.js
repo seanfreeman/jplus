@@ -720,11 +720,14 @@ window.ob = {
     };
 
 //example of usage: => get the element with id "id", and change it's color to red and asign a click even to it. 
+
+// using j+ framework
 // j("id").s("color","red").c(function(){},false);
 
-// equal to: ====
-
+//  ==== (in pure javascript)
 //var a =  document.getElementById("id");
 // a.style.color="red";
 //a.addEventListener("click",function(){},false);
 
+//  ==== (in jquery)
+// $("id").css("color", "red").click(function(){});
