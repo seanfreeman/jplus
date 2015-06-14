@@ -8,7 +8,7 @@ please feel free to jsfiddle with it here: https://jsfiddle.net/tc2praLd/
 
 I'm too busy to write the documentaton of this framework, i think if you look at the code closely you can clearly understand what this code does. 
 
-some syntaxes: 
+some examples:
 
 Html:
 
