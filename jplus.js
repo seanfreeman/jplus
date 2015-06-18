@@ -591,7 +591,7 @@ window.ob = {
     },
 
     isclass: function (className) {
-        /// <summary>if class is present to an element</summary>
+        /// <summary>if class is present in an element</summary>
         /// <param name="className" type="String">className: </param>
         /// <returns type="Boolean" />
         if (className) {
