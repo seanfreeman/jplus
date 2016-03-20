@@ -140,10 +140,11 @@ window.ob = {
     each: function (fun) {
         /// <summary>execute the function on every element from list</summary>
         /// <param name="fun" type="Function">j("one").each(function(ele){ele.style.color='red';});</param>
+        /// parameters of the function 'fun' can be => (item, index, array)
         /// <returns type="ob" />
         if (fun) {
             this.list.forEach(fun);
-
+            
         }
         return this;
     },
